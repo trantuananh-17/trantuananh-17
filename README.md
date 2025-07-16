@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ### 👉 Programming languages
 
 <p align="left">
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>

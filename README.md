@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 <h4 align="center">I am a Coder Fullstack. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
-## 🔥 Streak Stats
+<!--## 🔥 Streak Stats
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=trantuananh-17&theme=algolia" alt="GitHub Streak" /></a></p>
-
+-->
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -74,10 +74,6 @@ Here are some ideas to get you started:
   &emsp;
   <a href="https://expressjs.com" target="_blank">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://redis.io/" target="_blank">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-%23D82C1D.svg?style=flat&logo=redis&logoColor=white">
   </a>
   &emsp;
   <a href="https://nestjs.com" target="_blank">
